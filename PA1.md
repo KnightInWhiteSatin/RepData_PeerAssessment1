@@ -104,7 +104,8 @@ Devise a strategy for filling in all of the missing values in the dataset.
 The strategy does not need to be sophisticated. For example, you could use 
 the mean/median for that day, or the mean for that 5-minute interval, etc.
 
-*5-minute interval seems to give us the closest to accurate result*
+*The mean for 5-minute intervals, being more precise, 
+should give us the best approximation.*
 
 Create a new dataset that is equal to the original dataset but with the missing 
 data filled in.
